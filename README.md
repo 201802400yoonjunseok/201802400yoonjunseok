@@ -1,4 +1,4 @@
-### Hi there 👋
+### 201802400 윤준석
 
 <!--
 **201802400yoonjunseok/201802400yoonjunseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
